@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>快递公司</key>
+	<dict>
+		<key>韵达快递</key>
+		<string>yunda</string>
+		<key>圆通快递</key>
+		<string>yuantong</string>
+		<key>汇通快递</key>
+		<string>huitongkuaidi</string>
+		<key>申通快递</key>
+		<string>shentong</string>
+		<key>申通E物流</key>
+		<string>shentong</string>
+		<key>顺风快递</key>
+		<string>shunfengen</string>
+		<key>EMS</key>
+		<string>ems</string>
+		<key>宅急送</key>
+		<string>zhaijisong</string>
+	</dict>
+</dict>
+</plist>
